@@ -3,6 +3,7 @@ Hellow world program in R programming Language
 Using command line
 
 ###########################
-myString <- "Hello, World!"
-print ( myString)
+> myString <- "Hello, World!"
+###########################
+> print ( myString)
 ###########################
